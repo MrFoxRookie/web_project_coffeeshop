@@ -1,0 +1,10 @@
+.page {
+  min-height: 1100px;
+  max-height: 1600px;
+  margin: 0 auto;
+  font-family: Inter, "Times New Roman", serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+/*Para Noto Serif, usa Times New Roman como alternativa y la familia serif genérica en caso de que el usuario o usuaria no tenga ninguna de las otras fuentes.*/
