@@ -6,7 +6,6 @@
     <meta name="description" content="Inicio Cafeteria" />
     <meta name="author" content="Zahid Tejeda Amaro" />
     <meta name="keywords" content="Cafeteria, Inicio, TripleTen" />
-    <link rel="stylesheet" href="./vendor/normalize.css" />
     <link rel="stylesheet" href="./pages/index.css" />
     <link rel="icon" type="image/x-icon" href="favicon.ico" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -23,7 +22,7 @@
         <nav class="nav">
           <img
             src="/images/logo_coffeeshop_dark.svg"
-            alt="Imagen de Logotipo de Triple Espresso"
+            alt="Imagen del logotipo de Triple Espresso"
             class="nav__logo"
           />
           <ul class="nav__links">
@@ -34,7 +33,7 @@
               <a class="nav__link" href="#reservation">Reservar una mesa</a>
             </li>
             <li>
-              <a class="nav__link" href="#">Contactos</a>
+              <a class="nav__link" href="#footer">Contactos</a>
             </li>
           </ul>
         </nav>
@@ -166,7 +165,38 @@
           </form>
         </section>
       </main>
-      <footer class="footer"></footer>
+      <footer class="footer" id="footer">
+        <div class="footer__content">
+          <img
+            src="/images/logo_coffeeshop_light.svg"
+            alt="Imagen del logotipo de Triple Espresso"
+            class="footer__logo"
+          />
+          <div class="footer__social">
+            <p class="footer__social-heading">Redes sociales</p>
+            <ul class="footer__list">
+              <li class="footer__list-item">
+                <img
+                  class="footer__social-icon"
+                  src="/images/facebook_white.svg"
+                  alt="Imagen de un icono de Facebook"
+                />
+                <a href="#" class="footer__social-link">Facebook</a>
+              </li>
+              <li class="footer__list-item">
+                <img
+                  class="footer__social-icon"
+                  src="/images/instagram_white.svg"
+                  alt="Imagen de un icono Instagram"
+                />
+                <p><a href="#" class="footer__social-link">Instagram</a></p>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer__circle"></div>
+        <p class="footer__copyright">© 2025 Zahid Tejeda Amaro</p>
+      </footer>
     </div>
   </body>
 </html>
