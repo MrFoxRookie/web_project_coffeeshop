@@ -56,6 +56,11 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
+  text-decoration: none;
+}
+
+.footer__social-link:visited {
+  color: #ffffff;
 }
 
 .footer__social-link:hover {
