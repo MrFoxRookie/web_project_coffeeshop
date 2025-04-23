@@ -19,3 +19,5 @@ Planes de mejora del proyecto:
 
 - Para incentivar a los potenciales clientes, que haya una sección dedicada a las promociones del día.
   Ejemplo: https://lh6.googleusercontent.com/dtMYJbtz1rcBJ25shNfk0-EzgnxsZ90vB0QTYd_78y2Htii30k6iXrOHtWJd0ygKo9dzrmINuyn76l4F5JkkEPN7DgDBhH5tQfWPBp8er-69Gxq2nx9C_BdyS_YN-nQYJfrez5JF36YMeeLL-g
+
+Enlace a la página: https://mrfoxrookie.github.io/web_project_coffeeshop/
